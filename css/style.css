@@ -1,0 +1,144 @@
+body {
+  margin: 0px;
+  color: #40514e;
+  text-align: center;
+  background-color: rgb(238, 255, 255);
+}
+.pro {
+  text-decoration: underline;
+}
+.cloud2 {
+  position: absolute;
+
+  left: 230px;
+}
+.cloud1 {
+  position: absolute;
+
+  right: 200px;
+}
+.heading {
+  padding-top: 100px;
+  color: #66bfbf;
+  font-size: 70px;
+  line-height: 2px;
+  font-family: "Sacramento", cursive;
+}
+.programmer {
+  color: #66bfbf;
+  font-size: 40px;
+  font-weight: normal;
+  font-family: sans-serif;
+}
+
+.profile-pic {
+  padding-top: 100px;
+  height: 180px;
+  width: 180px;
+}
+
+.chillies {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.footer-link {
+  color: #11999e;
+}
+.skill {
+  color: #11999e;
+}
+
+.earth {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+hr {
+  border-style: dotted;
+  border-width: 8px;
+  border-bottom: 0px;
+  border-color: rgb(204, 204, 204);
+
+  width: 60px;
+}
+h2 {
+  color: #11999e;
+  padding-bottom: 10px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+.contact-me {
+  margin: auto;
+  width: 40%;
+  padding-bottom: 20px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 2px 0 20px;
+  margin: 0px;
+}
+
+a {
+  margin: 10px 15px;
+  color: #11999e;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+.surname {
+  color: #eaf6f6;
+  font-size: 10px;
+}
+
+.btn {
+  -webkit-border-radius: 56px;
+  -moz-border-radius: 56px;
+  border-radius: 56px;
+  height: 11px;
+  line-height: 11px;
+  color: #ffffff;
+  font-family: Helvetica;
+  width: 120px;
+  font-size: 14px;
+  font-weight: 200;
+  padding: 6px;
+  background-color: #00fff3;
+  -webkit-box-shadow: inset -9px -4px 39px 4px #0059a0;
+  -moz-box-shadow: inset -9px -4px 39px 4px #0059a0;
+  box-shadow: inset -9px -4px 39px 4px #0059a0;
+  text-shadow: 8px 3px 10px #000000;
+  border: dotted #0059a0 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #0085a3 13px;
+  background: #00ad74;
+  background-image: -webkit-linear-gradient(top, #00ad74, #1e62d0);
+  background-image: -moz-linear-gradient(top, #00ad74, #1e62d0);
+  background-image: -ms-linear-gradient(top, #00ad74, #1e62d0);
+  background-image: -o-linear-gradient(top, #00ad74, #1e62d0);
+  background-image: -webkit-gradient(to bottom, #00ad74, #1e62d0);
+  -webkit-border-radius: 54px;
+  -moz-border-radius: 54px;
+  border-radius: 54px;
+  text-decoration: none;
+}
